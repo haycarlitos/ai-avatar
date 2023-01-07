@@ -4,7 +4,7 @@ export default function Document() {
   return (
     <Html>
       <Head>
-        <meta property="og:title" content="AI Avatar Generator" key="title" />
+        <meta property="og:title" content="AI Avatar 🐰" key="title" />
         <meta
           property="og:description"
           content="build with buildspace"
